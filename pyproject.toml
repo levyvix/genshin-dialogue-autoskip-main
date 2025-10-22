@@ -8,4 +8,6 @@ dependencies = [
     "pypiwin32==223",
     "pyscreeze==0.1.28",
     "python-dotenv==1.0.0",
+    "types-pywin32>=306.0.0.20240822",
+    "types-PyAutoGUI>=0.9.3.7",
 ]
